@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AnonChat</string>
+    <string name="please_enter_a_nickname">Please Enter a Nickname</string>
+    <string name="settings">Settings</string>
+    <string name="unknown_user">Unknown</string>
+    <string name="unknown_group">Group</string>
+</resources>
